@@ -16,13 +16,22 @@ Problem-Solving-Approachs-And-Patterns
 │      same_naive_solution.js
 │      same_refactored_solution.js
 │
-└───  add2.js
+└───  Multiple Pointers_Algoithm_Examples
 │      sum_zero_naive.js
 │      sum_zero_refactored.js
 │      unique_values.js
 │
-└───  add2.js
+└───  Sliding_Window_Algoithm_Examples
 │      max_sum_naive.js
 │      max_sum_refactored.js
+│
+└───  Extra_Problems
+│      areThereDuplicates.js
+│      averagePair.js
+│      findLongestSubstring.js
+│      isSubsequence.js
+│      maxSubarraySum.js
+│      minSubArrayLen.js
+│      sameFrequency.js
 │
 ```
