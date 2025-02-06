@@ -11,27 +11,12 @@ This folder contains examples and explanations of **Recursion**, a key problem-s
 ```
 Recursion
 │
-└───  Frequency_Counter_Algorithm_Examples
-│      anagram.js
-│      same_naive_solution.js
-│      same_refactored_solution.js
-│
-└───  Multiple Pointers_Algoithm_Examples
-│      sum_zero_naive.js
-│      sum_zero_refactored.js
-│      unique_values.js
-│
-└───  Sliding_Window_Algoithm_Examples
-│      max_sum_naive.js
-│      max_sum_refactored.js
-│
-└───  Extra_Problems
-│      areThereDuplicates.js
-│      averagePair.js
-│      findLongestSubstring.js
-│      isSubsequence.js
-│      maxSubarraySum.js
-│      minSubArrayLen.js
-│      sameFrequency.js
+│      callstack_example.js
+│      collect_odds_pure_recursion.js
+│      countdown.js
+│      factorial_iterative.js
+│      factorial_recursive.js
+│      helper_method_recursion.js
+│      sumrange.js
 │
 ```
