@@ -16,6 +16,7 @@ Recursion
 │      countdown.js
 │      factorial_iterative.js
 │      factorial_recursive.js
+│      fib.js
 │      helper_method_recursion.js
 │      sumrange.js
 │
