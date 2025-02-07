@@ -18,6 +18,7 @@ Recursion
 │      factorial_recursive.js
 │      fib.js
 │      helper_method_recursion.js
+│      power.js
 │      sumrange.js
 │
 ```
