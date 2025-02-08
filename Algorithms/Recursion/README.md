@@ -20,7 +20,7 @@ Recursion
 │      helper_method_recursion.js
 │      power.js
 │      productOfArray.js
-│      recursiveRange.j
+│      recursiveRange.js
 │      sumrange.js
 │
 ```
