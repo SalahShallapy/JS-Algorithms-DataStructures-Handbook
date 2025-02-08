@@ -19,6 +19,7 @@ Recursion
 │      fib.js
 │      helper_method_recursion.js
 │      power.js
+│      productOfArray.js
 │      sumrange.js
 │
 ```
