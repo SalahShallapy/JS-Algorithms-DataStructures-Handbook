@@ -21,6 +21,6 @@ Recursion
 │      power.js
 │      productOfArray.js
 │      recursiveRange.js
-│      sumrange.j
+│      sumrange.js
 │
 ```
