@@ -13,7 +13,6 @@ Recursion
 │
 │      callstack_example.js
 │      capitalizeFirst.js
-│      callstack_example.js
 │      collect_odds_pure_recursion.js
 │      countdown.js
 │      factorial_iterative.js
