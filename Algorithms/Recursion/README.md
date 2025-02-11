@@ -17,10 +17,14 @@ Recursion
 │      factorial_iterative.js
 │      factorial_recursive.js
 │      fib.js
+│      flatten.js
 │      helper_method_recursion.js
+│      isPalindrome.js
 │      power.js
 │      productOfArray.js
 │      recursiveRange.js
+│      reverse.js
+│      someRecursive.js
 │      sumrange.js
 │
 ```
