@@ -29,6 +29,7 @@ Recursion
 │      recursiveRange.js
 │      reverse.js
 │      someRecursive.js
+│      stringifyNumbers.js
 │      sumrange.js
 │
 ```
