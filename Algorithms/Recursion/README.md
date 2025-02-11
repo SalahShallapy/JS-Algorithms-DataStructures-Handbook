@@ -15,6 +15,7 @@ Recursion
 │      capitalizeFirst.js
 │      capitalizeWords.js
 │      collect_odds_pure_recursion.js
+│      collectStrings.js
 │      countdown.js
 │      factorial_iterative.js
 │      factorial_recursive.js
@@ -22,6 +23,7 @@ Recursion
 │      flatten.js
 │      helper_method_recursion.js
 │      isPalindrome.js
+│      nestedEvenSum.js
 │      power.js
 │      productOfArray.js
 │      recursiveRange.js
