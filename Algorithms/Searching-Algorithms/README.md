@@ -13,5 +13,6 @@ Searching-Algorithms
 │
 │   binary_search.js
 │   linear_search.js
+│   string_search.js
 │
 ```
