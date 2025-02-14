@@ -5,3 +5,12 @@ This folder contains examples and explanations of **Searching Algorithms**, whic
 ## Resources
 
 - You can learn more about Searching Algorithms from the [slides](https://cs.slides.com/colt_steele/tries-21/fullscreen).
+
+## Directory Structure
+
+```
+Searching-Algorithms
+│
+│
+│
+```
