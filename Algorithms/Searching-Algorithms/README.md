@@ -11,6 +11,6 @@ This folder contains examples and explanations of **Searching Algorithms**, whic
 ```
 Searching-Algorithms
 │
-│
+│   binary_search.js
 │
 ```
