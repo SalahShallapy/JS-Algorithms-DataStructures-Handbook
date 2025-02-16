@@ -14,8 +14,10 @@ This folder contains examples and explanations of **Sorting Algorithms**, fundam
 
 ```
 Sorting-Algorithms
+│
 │   bubble_unoptimized.js
 │   bubble_optimized.js
 │   insertion_sort.js
+│   selection_sort.js
 │
 ```
