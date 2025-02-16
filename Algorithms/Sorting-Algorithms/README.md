@@ -9,3 +9,11 @@ This folder contains examples and explanations of **Sorting Algorithms**, fundam
 - You can also track time complexity and how the sorting works for all the algorithms using this [tool](https://www.toptal.com/developers/sorting-algorithms).
 
 - You can also track how each algorithm sort elements using [visualgo](https://visualgo.net/en/sorting).
+
+## Directory Structure
+
+```
+Sorting-Algorithms
+│   bubble_unoptimized.js
+│
+```
