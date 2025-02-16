@@ -7,3 +7,5 @@ This folder contains examples and explanations of **Sorting Algorithms**, fundam
 - You can learn more about Sorting Algorithms from the [slides](https://cs.slides.com/colt_steele/elementary-sorting-algorithms/fullscreen).
 
 - You can also track time complexity and how the sorting works for all the algorithms using this [tool](https://www.toptal.com/developers/sorting-algorithms).
+
+- You can also track how each algorithm sort elements using [visualgo](https://visualgo.net/en/sorting).
