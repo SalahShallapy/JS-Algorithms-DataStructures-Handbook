@@ -20,5 +20,6 @@ Sorting-Algorithms
 │   insertion_sort.js
 │   selection_sort.js
 │   mergeSort.js
+│   quicksort.js
 │
 ```
