@@ -4,7 +4,7 @@ This folder contains examples and explanations of **Sorting Algorithms**, fundam
 
 ## Resources
 
-- You can learn more about Sorting Algorithms from the [slides](https://cs.slides.com/colt_steele/elementary-sorting-algorithms/fullscreen).
+- You can learn more about elementary Sorting Algorithms from this [slides](https://cs.slides.com/colt_steele/elementary-sorting-algorithms/fullscreen) and more about intermediate Sorting Algorithms from this [slides](https://cs.slides.com/colt_steele/intermediate-sorting-algorithms/fullscreen)
 
 - You can also track time complexity and how the sorting works for all the algorithms using this [tool](https://www.toptal.com/developers/sorting-algorithms).
 
