@@ -21,5 +21,6 @@ Sorting-Algorithms
 │   selection_sort.js
 │   mergeSort.js
 │   quicksort.js
+│   radix_sort.js
 │
 ```
