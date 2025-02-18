@@ -19,5 +19,6 @@ Sorting-Algorithms
 │   bubble_optimized.js
 │   insertion_sort.js
 │   selection_sort.js
+│   mergeSort.js
 │
 ```
