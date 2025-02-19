@@ -28,6 +28,7 @@ Problem-Solving-Approachs-And-Patterns
 └───  Extra_Problems
 │      areThereDuplicates.js
 │      averagePair.js
+│      constructNote.js
 │      findLongestSubstring.js
 │      isSubsequence.js
 │      maxSubarraySum.js
