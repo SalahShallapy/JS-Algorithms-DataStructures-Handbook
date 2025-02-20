@@ -32,6 +32,7 @@ Problem-Solving-Approachs-And-Patterns
 │      countZeroes.js
 │      findAllDuplicates.js
 │      findLongestSubstring.js
+│      findPair.js
 │      isSubsequence.js
 │      maxSubarraySum.js
 │      minSubArrayLen.js
