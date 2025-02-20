@@ -38,5 +38,6 @@ Problem-Solving-Approachs-And-Patterns
 │      maxSubarraySum.js
 │      minSubArrayLen.js
 │      sameFrequency.js
+│      sortedFrequency.js
 │
 ```
