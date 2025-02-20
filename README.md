@@ -24,6 +24,7 @@ JS-Algorithms-DataStructures-Handbook
 │    └─── Big-O-Notation
 │    └─── Problem-Solving-Approachs-And-Patterns
 │    └─── Recursion
+│    └─── Searching-Algorithms
 │
 ├── Data-Structures
 │
