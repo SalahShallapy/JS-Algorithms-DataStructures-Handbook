@@ -28,7 +28,8 @@ JS-Algorithms-DataStructures-Handbook
 │    └─── Sorting-Algorithms
 │
 ├── Data-Structures
-│
+│    │
+│    └─── Singly-Linked-Lists
 ```
 
 ## Installation
