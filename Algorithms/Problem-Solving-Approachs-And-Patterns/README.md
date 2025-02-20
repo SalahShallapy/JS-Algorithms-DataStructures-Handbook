@@ -30,6 +30,7 @@ Problem-Solving-Approachs-And-Patterns
 │      averagePair.js
 │      constructNote.js
 │      countZeroes.js
+│      findAllDuplicates.js
 │      findLongestSubstring.js
 │      isSubsequence.js
 │      maxSubarraySum.js
