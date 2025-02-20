@@ -25,6 +25,7 @@ JS-Algorithms-DataStructures-Handbook
 │    └─── Problem-Solving-Approachs-And-Patterns
 │    └─── Recursion
 │    └─── Searching-Algorithms
+│    └─── Sorting-Algorithms
 │
 ├── Data-Structures
 │
