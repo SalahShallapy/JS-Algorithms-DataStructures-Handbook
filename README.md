@@ -46,7 +46,7 @@ JS-Algorithms-DataStructures-Handbook
 
 ## Note
 
-- This repository is a work in progress and will be updated regularly as I continue my learning journey. Stay tuned for more commits!
+- This repository is a work in progress and will be updated regularly as I continue my learning journey. Stay tuned for more commits !
 
 ## Contributing
 
