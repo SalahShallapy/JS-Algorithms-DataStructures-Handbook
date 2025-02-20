@@ -20,7 +20,8 @@ Welcome to my JavaScript Algorithms and Data Structures repository! This repo is
 JS-Algorithms-DataStructures-Handbook
 │
 ├── Algorithms
-│   ├── Big-O-Notation
+│    │
+│    └─── Big-O-Notation
 │
 ├── Data-Structures
 │
