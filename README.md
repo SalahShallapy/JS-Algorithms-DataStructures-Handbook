@@ -22,6 +22,7 @@ JS-Algorithms-DataStructures-Handbook
 ├── Algorithms
 │    │
 │    └─── Big-O-Notation
+│    └─── Problem-Solving-Approachs-And-Patterns
 │
 ├── Data-Structures
 │
