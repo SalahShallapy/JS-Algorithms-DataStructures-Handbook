@@ -33,6 +33,7 @@ Problem-Solving-Approachs-And-Patterns
 │      findAllDuplicates.js
 │      findLongestSubstring.js
 │      findPair.js
+│      findRotatedIndex.js
 │      isSubsequence.js
 │      maxSubarraySum.js
 │      minSubArrayLen.js
