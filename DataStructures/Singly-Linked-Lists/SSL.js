@@ -103,4 +103,19 @@ class SinglyLinkedList {
     }
     return false;
   }
+
+  // Insert - Add node at a specific index
+  insert(index, value) {
+    if (index < 0 || index > this.length) return false;
+    if (index === 0) return !!this.unshift(value);
+    if (index === this.length) return !!this.push(value);
+
+    const newNode = new Node(value);
+    let prev = this.get(index - 1);
+    newNode.next = prev.next;
+    prev.next = newNode;
+
+    this.length++;
+    return true;
+  }
 }
