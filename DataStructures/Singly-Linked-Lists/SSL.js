@@ -118,4 +118,18 @@ class SinglyLinkedList {
     this.length++;
     return true;
   }
+
+  // Remove - Remove node at a specific index
+  remove(index) {
+    if (index < 0 || index >= this.length) return undefined;
+    if (index === 0) return this.shift();
+    if (index === this.length - 1) return this.pop();
+
+    let prev = this.get(index - 1);
+    let removedNode = prev.next;
+    prev.next = removedNode.next;
+
+    this.length--;
+    return removedNode;
+  }
 }
