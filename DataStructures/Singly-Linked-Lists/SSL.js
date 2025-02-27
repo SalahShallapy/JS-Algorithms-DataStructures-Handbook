@@ -151,4 +151,15 @@ class SinglyLinkedList {
     this.head = prev;
     return this;
   }
+
+  // Print - Display the linked list
+  print() {
+    let arr = [];
+    let current = this.head;
+    while (current) {
+      arr.push(current.value);
+      current = current.next;
+    }
+    console.log(arr);
+  }
 }
