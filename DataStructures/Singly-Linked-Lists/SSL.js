@@ -63,4 +63,19 @@ class SinglyLinkedList {
     this.length++;
     return this;
   }
+
+  // Shift - Remove node from the beginning
+  shift() {
+    if (!this.head) return undefined;
+
+    let removedNode = this.head;
+    this.head = this.head.next;
+    this.length--;
+
+    if (this.length === 0) {
+      this.tail = null;
+    }
+
+    return removedNode;
+  }
 }
