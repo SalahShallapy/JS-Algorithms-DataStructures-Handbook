@@ -7,3 +7,12 @@ This folder contains examples and explanations of **Singly Linked Lists**, a fun
 - You can learn more about Singly Linked Lists this [slides](https://cs.slides.com/colt_steele/singly-linked-lists/fullscreen)
 
 - You can also track how Singly Linked Lists works and each method for them using [visualgo](https://visualgo.net/en/list?slide=1).
+
+## Directory Structure
+
+```
+Singly-Linked-Lists
+│
+│   SSL.js
+│
+```
