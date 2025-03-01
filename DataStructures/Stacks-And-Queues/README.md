@@ -7,3 +7,13 @@ This folder contains examples and explanations of **Stacks and Queues**, a funda
 - You can learn more about Singly Linked Lists this [slides](https://cs.slides.com/colt_steele/stacks/fullscreen)
 
 - You can also track how Singly Linked Lists works and each method for them using [visualgo](https://visualgo.net/en/list?slide=1).
+
+## Directory Structure
+
+```
+Doubly-Linked-Lists
+│
+│   stack.js
+│   queue.js
+│
+```
