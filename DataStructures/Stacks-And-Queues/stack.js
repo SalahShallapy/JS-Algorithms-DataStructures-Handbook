@@ -26,6 +26,7 @@ class Stack {
     return ++this.size;
   }
 
+  // pop method
   pop() {
     if (!this.first) return null;
     const temp = this.first;
@@ -35,5 +36,13 @@ class Stack {
     this.first = this.first.next;
     this.size--;
     return temp.val;
+  }
+
+  peek() {
+    return this.first ? this.first.val : null;
+  }
+
+  isEmpty() {
+    return this.size === 0;
   }
 }
