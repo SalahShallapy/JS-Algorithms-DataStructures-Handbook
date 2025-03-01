@@ -13,6 +13,6 @@ This folder contains examples and explanations of **Doubly Linked Lists**, a fun
 ```
 Doubly-Linked-Lists
 │
-│   SSL.js
+│   DLL.js
 │
 ```
