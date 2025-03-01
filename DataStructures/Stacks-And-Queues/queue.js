@@ -35,4 +35,12 @@ class Queue {
     this.size--;
     return temp.val;
   }
+
+  peek() {
+    return this.first ? this.first.val : null;
+  }
+
+  isEmpty() {
+    return this.size === 0;
+  }
 }
