@@ -144,4 +144,24 @@ class DoublyLinkedList {
 
     return removedNode;
   }
+
+  // reverse method
+  reverse() {
+    if (!this.head) return null;
+    let current = this.head;
+    let temp = null;
+
+    this.tail = this.head;
+
+    while (current) {
+      temp = current.prev;
+      current.prev = current.next;
+      current.next = temp;
+      current = current.prev;
+    }
+
+    this.head = temp.prev;
+
+    return this;
+  }
 }
