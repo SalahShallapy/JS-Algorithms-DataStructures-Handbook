@@ -96,4 +96,14 @@ class DoublyLinkedList {
 
     return current;
   }
+
+  // set method
+  set(index, val) {
+    const found = this.get(index);
+    if (found) {
+      found.val = val;
+      return true;
+    }
+    return false;
+  }
 }
