@@ -1,3 +1,4 @@
+// Intialized node class
 class Node {
   constructor(val) {
     this.val = val;
@@ -6,6 +7,7 @@ class Node {
   }
 }
 
+// Intialized DLL class
 class DoublyLinkedList {
   constructor() {
     this.head = null;
@@ -13,6 +15,7 @@ class DoublyLinkedList {
     this.length = 0;
   }
 
+  // push method
   push(val) {
     const newNode = new Node(val);
     if (this.length === 0) {
@@ -26,6 +29,7 @@ class DoublyLinkedList {
     return this;
   }
 
+  // pop method
   pop() {
     if (!this.head) return undefined;
     let removed = this.tail;
