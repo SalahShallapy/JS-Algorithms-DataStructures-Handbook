@@ -22,6 +22,7 @@ JS-Algorithms-DataStructures-Handbook
 ├── Algorithms
 │    │
 │    └─── Big-O-Notation
+│    └─── Dijkstra's-Algorithm
 │    └─── Problem-Solving-Approachs-And-Patterns
 │    └─── Recursion
 │    └─── Searching-Algorithms
@@ -29,7 +30,14 @@ JS-Algorithms-DataStructures-Handbook
 │
 ├── Data-Structures
 │    │
+│    └─── Binary-Heaps
+│    └─── Binary-Search-Trees
+│    └─── Doubly-Linked-Lists
+│    └─── Graphs
+│    └─── Hash-Tables
 │    └─── Singly-Linked-Lists
+│    └─── Stacks-And-Queues
+
 ```
 
 ## Installation
